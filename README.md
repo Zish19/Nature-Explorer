@@ -2,8 +2,8 @@
 
 **Nature Explorer** is a responsive, single-page web application designed to showcase fundamental to intermediate **HTML5** and **CSS3** concepts. This project simulates a real-world landing page for a nature travel agency, built entirely without JavaScript.
 
-![Project Banner](https://via.placeholder.com/1000x300?text=Nature+Explorer+App+Preview)
-*(Replace this link with a screenshot of your actual project later)*
+![Project Banner](![Uploading image.png…]()
+)
 
 ## 🚀 Project Overview
 
